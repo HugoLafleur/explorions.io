@@ -17,26 +17,26 @@
     URL = "/tags"
     Weight = 100
 
-# [code]
-#     Name = "/Code"
-#     Title = "Development Projects"
-#     URL = "/code"
-#     Weight = 40
+[code]
+    Name = "/Code"
+    Title = "Development Projects"
+    URL = "/code"
+    Weight = 40
 
-# [travel]
-#     Name = "/Travel"
-#     Title = "Globe-trotting"
-#     URL = "/travel"
-#     Weight = 50
+[travel]
+    Name = "/Travel"
+    Title = "Globe-trotting"
+    URL = "/travel"
+    Weight = 50
 
-# [play]
-#     Name = "/Play"
-#     Title = "Adventures in the Imaginary"
-#     URL = "/gaming"
-#     Weight = 60
+[play]
+    Name = "/Play"
+    Title = "Adventures in the Imaginary"
+    URL = "/gaming"
+    Weight = 60
 
-# [listen]
-#     Name = "/Listen"
-#     Title = "Beats, grooves, sounds, harmony"
-#     URL = "/music"
-#     Weight = 70
+[listen]
+    Name = "/Listen"
+    Title = "Beats, grooves, sounds, harmony"
+    URL = "/music"
+    Weight = 70
